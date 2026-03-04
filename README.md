@@ -32,8 +32,6 @@ Maximum Brightness: RGB lighting limits have been increased to full capacity (25
 
 Indicator Fix: The static green charging light on the Fn key has been disabled.
 
-Sleep Timer: Wireless sleep duration has been extended to 10 minutes.
-
-Performance: For optimal competitive gaming, the debounce delay is maintained at the stock 5ms.
+Sleep Timer: Wireless sleep duration has been extended to 10 
 
 The compiled .bin file is available below for your convenience.
